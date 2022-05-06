@@ -1,87 +1,92 @@
-# ankush
-My GitHub profile introduction!
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<p align="center">
-<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
-<a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="apoorvtyagi" height="20" width="20" /></a>
-<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
-</p>
+### Hi there, I'm [Ankush Kumar(https://durgeshsamariya.github.io) 👋
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
-### 🤵 About Me:
-- 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.sql```
-- 🌱 I’m currently learning docker and kubernetes
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
-- 😄 Pronouns: He/Him
-- 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) (previously on [blogger](https://apoorvtyagi133.blogspot.com/))
-- 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
-- ⚡ Fun fact: Je connais un peu le français
-
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="MAVEN" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="HEROKU" width="35" height="35"/> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-</p>
-
----
-### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
-🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
-🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
-```
+I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
 
+- 💻 Currently working on PyML, a python toolkit for building some of machine learning models and state-of-the-art algorithms without using any libraries. The aim of this project is to learn machine learning algorithms from scratch.
+- 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://github.com/themlphdstudent/100DaysofMachineLearning) and [Data Science](https://github.com/themlphdstudent/100DaysofDataScience).
 
-<!--END_SECTION:waka-->
+**My Reseach Interest**:
+- Outlying Aspect Mining
+- Classification
+- Clustering
+- Anomaly Detection
+- Similarity Measure
 
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.
+ **I am open to**:
 
----
+- any collobration work,
+- machine learning projects(development or research),
+- research internships and
+- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
-### 📕 My Latest Blog posts:
+**Recent Update**:
+- **December 2021**: Completed Deep Learning Nano Degree by Udacity. [[Certificate]](https://graduation.udacity.com/confirm/SWLALPXD)
+- **October 2021**: A paper is accepted for publication by the Annals of Data Science Journal (Springer).
+- **October 2021**: Delivered a guest lecture on "Deploying Maching Learning Model" at IT, CSPIT, Charusat University, Changa.
+- **September 2021**: Completed Coursera course by Deeplearning.ai on AI for Everyone taught by Andrew Ng. [[Certificate]](http://coursera.org/verify/96KFJPPTU3J7)
+
+**Service to research comunity**:
+- PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020].
+
+## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
-- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
-- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
+- [Generate Machine Learning Code in Few Clicks Using Machine Learning Code Generator](https://medium.com/towards-artificial-intelligence/generate-machine-learning-code-in-few-clicks-using-machine-learning-code-generator-62e4a4f30b23)
+- [20+ Data Science Projects with Code](https://medium.com/@themlphdstudent/20-data-science-projects-with-code-f447ac5b444d)
+- [Campus Recruitment: EDA and Classification — Part 2](https://medium.com/towards-artificial-intelligence/campus-recruitment-eda-and-classification-part-2-ff8bdc634e7)
+- [Campus Recruitment: EDA and Classification — Part 1](https://medium.com/towards-artificial-intelligence/campus-recruitment-eda-and-classification-part-1-ca07945f3e47)
+- [Data Analysis and Visualization using Pandas, Matplotlib and Seaborn](https://medium.com/python-in-plain-english/data-analysis-and-visualization-using-pandas-matplotlib-and-seaborn-5bc27e8d00c3)
+- [Analysing and Visualising the Country wise Population from 1955 to 2020 with Pandas, Matplotlib, Seaborn and Plotly](https://towardsdatascience.com/analysing-and-visualising-the-country-wise-population-from-1955-to-2020-with-pandas-matplotlib-70b3614eed6b)
+- [More..](https://medium.com/@themlphdstudent)
 <!-- BLOG-POST-LIST:END -->
----
 
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+## What I am Reading:
+
+**My Monthly Reading List**
+- [September 2020 monthly Machine Learning Reading List](https://medium.com/ai-in-plain-english/september-2020-monthly-machine-learning-reading-list-d6ced1f62829)
+- [August 2020 monthly Machine Learning Reading List](https://medium.com/the-innovation/august-2020-monthly-machine-learning-reading-list-by-durgesh-samariya-20028aa1d5cc)
+
+**My Weekly Reading List**
+- [Weekly Machine Learning Research Paper Reading List — #12](https://medium.com/@themlphdstudent/weekly-machine-learning-research-paper-reading-list-12-9b8c58e8f845)
+- [Weekly Machine Learning Research Paper Reading List — #11](https://medium.com/@themlphdstudent/weekly-machine-learning-research-paper-reading-list-11-3967a60041a2)
+- [Weekly Machine Learning Research Paper Reading List — #10](https://medium.com/@themlphdstudent/weekly-machine-learning-research-paper-reading-list-10-f4b487dd3e6a)
+- [Weekly Machine Learning Research Paper Reading List — #9](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-9-ebe4e60da57b)
+- [More..](https://medium.com/@themlphdstudent)
+
+## Connect with me:
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+</p>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!-- 
+----
+[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+
+<!--
+**themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
