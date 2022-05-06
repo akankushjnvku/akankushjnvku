@@ -37,9 +37,18 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
    <summary>📃 Resume</summary>
 
  ## Education
- - 📍 **Uttarakhand Technical University, Dehradun**   **< 2019-2023 >**\
+ - 📍 **Uttarakhand Technical University**   **< 2019-2023 >**\
  📖**Bachelor's of technology-< Information Technology >**
  
+ - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**   **< 2017-2019 >**\
+   📖**Senior Secondary Schooling-< Intermediate Science >**
+ 
+ - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**   **< 2017-2019 >**\
+   📖**Secondary Schooling**
+ 
+   
+   
+   
  ## Experience
  -  👨‍💻 **Back-end Developer**\
  📆 Feb,2022 - moment\
