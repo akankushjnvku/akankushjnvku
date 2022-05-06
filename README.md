@@ -45,45 +45,10 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
  📆 Feb,2022 - moment\
 📍 **Youth India Foundation** - New Delhi, India
 
+   </details>
 
 
-
-
-
-**Recent Update**:
-- **December 2021**: Completed Deep Learning Nano Degree by Udacity. [[Certificate]](https://graduation.udacity.com)
-- **October 2021**: A paper is accepted for publication by the Annals of Data Science Journal (Springer).
-- **October 2021**: Delivered a guest lecture on "Deploying Maching Learning Model" at IT, CSPIT, Charusat University, Changa.
-- **September 2021**: Completed Coursera course by Deeplearning.ai on AI for Everyone taught by Andrew Ng. [[Certificate]](http://coursera.org)
-
-**Service to research comunity**:
-- PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020].
-
-## My Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Generate Machine Learning Code in Few Clicks Using Machine Learning Code Generator](https://medium.com/towards-artificial-intelligence/generate-machine-learning-code-in-few-clicks-using-machine-learning-code-generator-62e4a4f30b23)
-- [20+ Data Science Projects with Code](https://medium.com/@themlphdstudent/20-data-science-projects-with-code-f447ac5b444d)
-- [Campus Recruitment: EDA and Classification — Part 2](https://medium.com/towards-artificial-intelligence/campus-recruitment-eda-and-classification-part-2-ff8bdc634e7)
-- [Campus Recruitment: EDA and Classification — Part 1](https://medium.com/towards-artificial-intelligence/campus-recruitment-eda-and-classification-part-1-ca07945f3e47)
-- [Data Analysis and Visualization using Pandas, Matplotlib and Seaborn](https://medium.com/python-in-plain-english/data-analysis-and-visualization-using-pandas-matplotlib-and-seaborn-5bc27e8d00c3)
-- [Analysing and Visualising the Country wise Population from 1955 to 2020 with Pandas, Matplotlib, Seaborn and Plotly](https://towardsdatascience.com/analysing-and-visualising-the-country-wise-population-from-1955-to-2020-with-pandas-matplotlib-70b3614eed6b)
-- [More..](https://medium.com/@themlphdstudent)
-<!-- BLOG-POST-LIST:END -->
-
-## What I am Reading:
-
-**My Monthly Reading List**
-- [September 2020 monthly Machine Learning Reading List](https://medium.com/ai-in-plain-english/september-2020-monthly-machine-learning-reading-list-d6ced1f62829)
-- [August 2020 monthly Machine Learning Reading List](https://medium.com/the-innovation/august-2020-monthly-machine-learning-reading-list-by-durgesh-samariya-20028aa1d5cc)
-
-**My Weekly Reading List**
-- [Weekly Machine Learning Research Paper Reading List — #12](https://medium.com/@themlphdstudent/weekly-machine-learning-research-paper-reading-list-12-9b8c58e8f845)
-- [Weekly Machine Learning Research Paper Reading List — #11](https://medium.com/@themlphdstudent/weekly-machine-learning-research-paper-reading-list-11-3967a60041a2)
-- [Weekly Machine Learning Research Paper Reading List — #10](https://medium.com/@themlphdstudent/weekly-machine-learning-research-paper-reading-list-10-f4b487dd3e6a)
-- [Weekly Machine Learning Research Paper Reading List — #9](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-9-ebe4e60da57b)
-- [More..](https://medium.com/@themlphdstudent)
-
-## Connect with me:
+   ## Connect with me:
 
 <p align = "center">
 
