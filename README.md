@@ -11,7 +11,7 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankushjnvku&label=Profile%20views&color=32CD32&style=flat" alt="akankushjnvku" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning <b>Solidity</b>
+- 🌱 I’m currently in love with <b>DeepLearning</b>
 - 🔭 I’m currently exploring <b>Web3</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
