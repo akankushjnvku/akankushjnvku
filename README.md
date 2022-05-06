@@ -4,7 +4,7 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 
 
 - 💻 Currently working as a back-end developer at YouthIndiaFoundation-NewDelhi it is a type of NGO and our team is currenly working on a project named as YIE-School.
-- 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://github.com/themlphdstudent/100DaysofMachineLearning) and [Data Science](https://github.com/themlphdstudent/100DaysofDataScience).
+- 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) and [Data Science](https://www.ibm.com/in-en/analytics/data-science?utm_content=SRCWW&p1=Search&p4=43700052658080620&p5=e&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOOPlVssk_4G8dh6UR3f61_GTWuGGigy4KQbieXS3AWBz5gug98I-BoCxI8QAvD_BwE&gclsrc=aw.ds).
 
 **My Reseach Interest**:
 - Outlying Aspect Mining
