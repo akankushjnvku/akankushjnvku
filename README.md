@@ -37,13 +37,13 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
    <summary>📃 Resume</summary>
 
  ## Education
- - 📍 **Uttarakhand Technical University**   **< 2019-2023 >**\
+ - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
  📖**Bachelor's of technology-< Information Technology >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**   **< 2017-2019 >**\
+ - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**   **< 2017-2019 >**\
+ - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
    📖**Secondary Schooling**
  
    
@@ -53,6 +53,18 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
  -  👨‍💻 **Back-end Developer**\
  📆 Feb,2022 - moment\
 📍 **Youth India Foundation** - New Delhi, India
+   
+ -  👨‍💻 **Open Source Contributor**\
+   📆 Feb,2022 - moment\
+   📍 **GirlScript Summer of Code** - Maharashtra, India
+   
+ -  👨‍💻 **Owner**\
+   📆 Oct,2020 - moment\
+   📍 **Mackph.com** - Roorkee, India
+   
+ -  👨‍💻 **Internshala Student Partner (ISP 16)**\
+   📆 Dec,2019 - Jun,2020\
+   📍 **Internshala** - Roorkee, India
 
    </details>
 
