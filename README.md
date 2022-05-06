@@ -33,6 +33,23 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 - research internships and
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
+<details>
+   <summary>📃 Resume</summary>
+
+ ## Education
+ - 📍 **Uttarakhand Technical University, Dehradun**   **< 2019-2023 >**\
+ 📖**Bachelor's of technology-< Information Technology >**
+ 
+ ## Experience
+ -  👨‍💻 **Back-end Developer**\
+ 📆 Feb,2022 - moment\
+📍 **Youth India Foundation** - New Delhi, India
+
+
+
+
+
+
 **Recent Update**:
 - **December 2021**: Completed Deep Learning Nano Degree by Udacity. [[Certificate]](https://graduation.udacity.com)
 - **October 2021**: A paper is accepted for publication by the Annals of Data Science Journal (Springer).
