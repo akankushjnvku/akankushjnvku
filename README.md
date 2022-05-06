@@ -50,19 +50,19 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
    
    
  ## Experience
- -  👨‍💻 **Back-end Developer**\
+ -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
  📆 Feb,2022 - moment\
 📍 **Youth India Foundation** - New Delhi, India
    
- -  👨‍💻 **Open Source Contributor**\
+ -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
    📆 Feb,2022 - moment\
    📍 **GirlScript Summer of Code** - Maharashtra, India
    
- -  👨‍💻 **Owner**\
+ -  👨‍💻 **Owner**------------------------------------------< Founder >\
    📆 Oct,2020 - moment\
    📍 **Mackph.com** - Roorkee, India
    
- -  👨‍💻 **Internshala Student Partner (ISP 16)**\
+ -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
    📆 Dec,2019 - Jun,2020\
    📍 **Internshala** - Roorkee, India
 
