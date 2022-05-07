@@ -24,7 +24,7 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)
 
 - 🌱 I’m currently in love with <b>DeepLearning</b>
-- 🔭 I’m currently exploring <b>Web3</b>
+- 🔭 Simultaneously exploring <b>Web3</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **akankush2000@gmail.com** && **ankush@mackph.com**
