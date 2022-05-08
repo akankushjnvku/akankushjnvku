@@ -1,6 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
+
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 
 
@@ -34,7 +35,9 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **akankush2000@gmail.com** && **ankush@mackph.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
-- ❤️ Building a community to make an impact by training new generations on cutting edge technologies to meet future requirements.</br>
+- ❤️ Building a community to make an impact by training new generations on cutting edge \
+technologies to meet future requirements.</br>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
 
 ### `My Reseach Interest:`
 - Outlying Aspect Mining
